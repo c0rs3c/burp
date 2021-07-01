@@ -24,3 +24,5 @@ BurpSuite Pro license generator & loader
 
 
 Enjoy Burp pro licensed on Own Name ....
+
+java -jar ./decoder.jar. -- For starting the decoder
